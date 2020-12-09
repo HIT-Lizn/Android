@@ -1,2 +1,2 @@
 # Android
-uself use Android repository
+selfuse Android repository
