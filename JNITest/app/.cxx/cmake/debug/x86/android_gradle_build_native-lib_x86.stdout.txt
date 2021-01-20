@@ -1,0 +1,8 @@
+ninja: Entering directory `F:\80303892_selfuse\JNITest\app\.cxx\cmake\debug\x86'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library F:\80303892_selfuse\JNITest\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so
+FAILED: F:/80303892_selfuse/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so 
+cmd.exe /C "cd . && F:\Android\android-sdk\ndk\21.3.6528147\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=i686-none-linux-android30 --gcc-toolchain=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -fPIC -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -shared -Wl,-soname,libnative-lib.so -o F:\80303892_selfuse\JNITest\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so CMakeFiles/native-lib.dir/native-lib.cpp.o  -llog -latomic -lm && cd ."
+F:/80303892_selfuse/JNITest/app/src/main/cpp/native-lib.cpp:10: error: undefined reference to 'Test001::testSTR()'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.

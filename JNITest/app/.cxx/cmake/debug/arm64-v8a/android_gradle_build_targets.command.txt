@@ -1,0 +1,8 @@
+Executable : F:\Android\android-sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+F:\80303892_selfuse\JNITest\app\.cxx\cmake\debug\arm64-v8a
+native-lib
+test001
+jvmArgs : 
+
