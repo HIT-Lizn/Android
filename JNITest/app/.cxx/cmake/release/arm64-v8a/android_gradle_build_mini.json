@@ -9,13 +9,6 @@
   ],
   "buildTargetsCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
-    "test001-Release-arm64-v8a": {
-      "artifactName": "test001",
-      "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\release\\arm64-v8a\" test001",
-      "abi": "arm64-v8a",
-      "output": "F:\\80303892_selfuse\\JNITest\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libtest001.so",
-      "runtimeFiles": []
-    },
     "native-lib-Release-arm64-v8a": {
       "artifactName": "native-lib",
       "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\release\\arm64-v8a\" native-lib",

@@ -171,6 +171,7 @@
       "project": {
         "compilerSettingsCacheFolder": "F:\\80303892_selfuse\\JNITest\\.cxx",
         "cxxFolder": "F:\\80303892_selfuse\\JNITest\\.cxx",
+        "ideBuildTargetAbi": "x86",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -194,10 +195,7 @@
     "objFolder": "F:\\80303892_selfuse\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "X86"
     ],
     "prefabDirectory": "F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []

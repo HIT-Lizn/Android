@@ -2,3 +2,5 @@
 1	336	632832332	CMakeFiles/native-lib.dir/native-lib.cpp.o	545a4dbbfc19d187
 337	1191	632832333	F:/80303892_selfuse/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	7f9e697b2c00aa0
 1	456	632835708	CMakeFiles/native-lib.dir/native-lib.cpp.o	545a4dbbfc19d187
+2	509	632913268	CMakeFiles/native-lib.dir/Test001.cpp.o	99178bbe8cf0c51
+509	1373	632913268	F:/80303892_selfuse/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	65e977cfa7bd1c68

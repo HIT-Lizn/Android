@@ -9,13 +9,6 @@
   ],
   "buildTargetsCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
-    "test001-Debug-x86_64": {
-      "artifactName": "test001",
-      "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" test001",
-      "abi": "x86_64",
-      "output": "F:\\80303892_selfuse\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libtest001.so",
-      "runtimeFiles": []
-    },
     "native-lib-Debug-x86_64": {
       "artifactName": "native-lib",
       "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" native-lib",

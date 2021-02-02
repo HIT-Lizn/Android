@@ -1,8 +1,7 @@
 {
   "stringTable": {
     "0": "F:/80303892_selfuse/JNITest/app/.cxx/cmake/debug/x86_64",
-    "1": "--target=x86_64-none-linux-android30 --gcc-toolchain=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dtest001_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
-    "2": "--target=x86_64-none-linux-android30 --gcc-toolchain=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+    "1": "--target=x86_64-none-linux-android30 --gcc-toolchain=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/android-sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
     "F:\\Android\\android-sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
@@ -14,23 +13,6 @@
   ],
   "buildTargetsCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
-    "test001-Debug-x86_64": {
-      "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" test001",
-      "buildType": "debug",
-      "toolchain": "1300647960",
-      "abi": "x86_64",
-      "artifactName": "test001",
-      "files": [
-        {
-          "src": "F:\\80303892_selfuse\\JNITest\\app\\src\\main\\cpp\\Test001.cpp",
-          "flagsOrdinal": 1,
-          "workingDirectoryOrdinal": 0
-        }
-      ],
-      "headers": [],
-      "output": "F:\\80303892_selfuse\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libtest001.so",
-      "runtimeFiles": []
-    },
     "native-lib-Debug-x86_64": {
       "buildCommand": "F:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\80303892_selfuse\\JNITest\\app\\.cxx\\cmake\\debug\\x86_64\" native-lib",
       "buildType": "debug",
@@ -40,7 +22,12 @@
       "files": [
         {
           "src": "F:\\80303892_selfuse\\JNITest\\app\\src\\main\\cpp\\native-lib.cpp",
-          "flagsOrdinal": 2,
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "F:\\80303892_selfuse\\JNITest\\app\\src\\main\\cpp\\Test001.cpp",
+          "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],

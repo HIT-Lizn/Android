@@ -28,6 +28,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1nI6zXVVPiJ8u8xM8Tr1XMByFwN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="10.103.37.106:8888" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-20T08:19:21.731Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-02T09:32:43.629Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="F:/Android/android-sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -119,30 +126,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2397" y="250" key="#PSD" timestamp="1611065545944">
+    <state x="2397" y="250" key="#PSD" timestamp="1611210058082">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2397" y="250" key="#PSD/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611065545944" />
+    <state x="2397" y="250" key="#PSD/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611210058082" />
+    <state x="2569" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612258182534">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2569" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612258182534" />
+    <state x="2610" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612248748480">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612248748480" />
     <state x="2660" y="273" key="FileChooserDialogImpl" timestamp="1611065541949">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611065541949" />
-    <state width="1876" height="235" key="GridCell.Tab.0.bottom" timestamp="1611130329292">
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom" timestamp="1612276767194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611130329292" />
-    <state width="1876" height="235" key="GridCell.Tab.0.center" timestamp="1611130329292">
+    <state width="1876" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612276767194" />
+    <state width="1876" height="234" key="GridCell.Tab.0.center" timestamp="1612276767194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611130329292" />
-    <state width="1876" height="235" key="GridCell.Tab.0.left" timestamp="1611130329292">
+    <state width="1876" height="234" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612276767194" />
+    <state width="1876" height="234" key="GridCell.Tab.0.left" timestamp="1612276767194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611130329292" />
-    <state width="1876" height="235" key="GridCell.Tab.0.right" timestamp="1611130329292">
+    <state width="1876" height="234" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612276767194" />
+    <state width="1876" height="234" key="GridCell.Tab.0.right" timestamp="1612276767194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611130329292" />
+    <state width="1876" height="234" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612276767194" />
+    <state x="2012" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1612258280934">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612258280934" />
+    <state x="2635" y="361" key="edit.logcat.filter.dialog.dimensions" timestamp="1611650411742">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2635" y="361" key="edit.logcat.filter.dialog.dimensions/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611650411742" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611129120402">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
